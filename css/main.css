@@ -56,6 +56,16 @@
 .timeline-card-success:after {
   background-color: #37BC9B; }
 
+.timeline-card-projects {
+  border-left-color: #4A89DC; }
+
+.timeline-card-projects:before {
+  border-color: #4A89DC; }
+
+.timeline-card-projects:after {
+  background-color: #4A89DC; }
+
+
 html {
   scroll-behavior: smooth; }
 
